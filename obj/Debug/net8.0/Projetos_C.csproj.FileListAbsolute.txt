@@ -1,0 +1,14 @@
+C:\Projetos_C\bin\Debug\net8.0\Projetos_C.exe
+C:\Projetos_C\bin\Debug\net8.0\Projetos_C.deps.json
+C:\Projetos_C\bin\Debug\net8.0\Projetos_C.runtimeconfig.json
+C:\Projetos_C\bin\Debug\net8.0\Projetos_C.dll
+C:\Projetos_C\bin\Debug\net8.0\Projetos_C.pdb
+C:\Projetos_C\obj\Debug\net8.0\Projetos_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_C\obj\Debug\net8.0\Projetos_C.AssemblyInfoInputs.cache
+C:\Projetos_C\obj\Debug\net8.0\Projetos_C.AssemblyInfo.cs
+C:\Projetos_C\obj\Debug\net8.0\Projetos_C.csproj.CoreCompileInputs.cache
+C:\Projetos_C\obj\Debug\net8.0\Projetos_C.dll
+C:\Projetos_C\obj\Debug\net8.0\refint\Projetos_C.dll
+C:\Projetos_C\obj\Debug\net8.0\Projetos_C.pdb
+C:\Projetos_C\obj\Debug\net8.0\Projetos_C.genruntimeconfig.cache
+C:\Projetos_C\obj\Debug\net8.0\ref\Projetos_C.dll
