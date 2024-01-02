@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Projetos_C.Models;
+
+Pessoa p = new Pessoa();
+
+p.Nome = "Alexandre";
+p.Idade = 27;
+
+p.Apresentar();
